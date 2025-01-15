@@ -1,0 +1,76 @@
+{
+  "hotels": [
+    {
+      "image": "https://images.oyoroomscdn.com/uploads/hotel_image/100033496/large/80405_lsr_2016081238732177796.jpg",
+      "name": "The Grand Paradise",
+      "details": {
+        "description": "Discover the charm of rural Germany in this beautiful farmhouse situated in the heart of the Rhine Valley. Surrounded by rolling vineyards, this vacation home offers a perfect blend of rustic charm and modern amenities. Explore the local wine cellars, take a river cruise, or simply relax in the garden while enjoying the peaceful atmosphere.",
+        "location": "Garmisch-Partenkirchen, Bavaria, Germany. A charming cottage in the Bavarian Alps, offering stunning mountain views and proximity to skiing resorts and hiking trails.",
+        "price": "$200 per night",
+        "nearby_landmarks": ["Central Park", "Empire State Building"]
+      }
+    },
+    {
+      "image": "https://images.oyoroomscdn.com/uploads/hotel_image/100030271/medium/85694_lsr_2016032541496744442.jpg",
+      "name": "Seaside Retreat",
+      "details": {
+        "description": "Enjoy the ultimate beach getaway in a sleek, contemporary beach house along the stunning Baltic Sea coast. With panoramic ocean views, this property provides the perfect spot for sunbathing, beach walks, or enjoying water sports. The house features floor-to-ceiling windows, a spacious open-plan design, and easy access to quaint seaside towns and beautiful coastal nature reserves.",
+        "location": "Mitte, Berlin, Germany. A modern apartment in the heart of Berlin, close to iconic landmarks like Brandenburg Gate and Museum Island.",
+        "price": "$150 per night",
+        "details": "Features include beachfront access, free breakfast, and spa services.",
+        "checkout": "11:00 AM"
+      }
+    },
+    {
+      "image": "https://images.oyoroomscdn.com/uploads/hotel_image/100023796/medium/239706_lsr_2016032445571518600.jpg",
+      "name": "Mountain Bliss Resort",
+      "details": {
+        "description": "Escape to a cozy cottage nestled in the scenic Bavarian Alps. Surrounded by lush green meadows and towering mountain peaks, this vacation home offers a peaceful retreat with hiking trails right at your doorstep. Enjoy fresh air, stunning views, and a serene atmosphere, all while being close to picturesque villages and the iconic Neuschwanstein Castle.",
+        "location": "Titisee-Neustadt, Baden-Württemberg, Germany. A serene lakeside villa in the Black Forest, perfect for outdoor activities with direct access to Titisee Lake.",
+        "price": "$180 per night",
+        "nearby_landmarks": ["Rocky Mountain National Park", "Skyline Trail"]
+      }
+    },
+    {
+      "image": "https://images.oyoroomscdn.com/uploads/hotel_image/100024349/medium/82522_lsr_2016080956263139895.jpg",
+      "name": "City Lights Inn",
+      "details": {
+        "description": "Experience the vibrant energy of Berlin from a chic, modern apartment in the heart of the city. Located just steps away from world-class museums, lively cafes, and cultural landmarks like the Brandenburg Gate and Alexanderplatz, this stylish vacation home is perfect for travelers seeking a mix of history, art, and contemporary living.",
+        "location": "Bacharach, Rhineland-Palatinate, Germany. A rustic farmhouse in the Rhine Valley, surrounded by vineyards and medieval castles, ideal for wine lovers.",
+        "price": "$120 per night",
+        "details": "Includes free Wi-Fi, meeting rooms, and a rooftop lounge.",
+        "checkout": "12:00 PM"
+      }
+    },
+    {
+      "image": "https://images.oyoroomscdn.com/uploads/hotel_image/100011605/medium/73507_lsr_2017032040614559275.jpg",
+      "name": "Lakeview Lodge",
+      "details": {
+        "description": "Unwind at a luxurious lakeside villa tucked away in the serene Black Forest region. With its tranquil setting by a crystal-clear lake and surrounded by dense woods, this property is ideal for those who enjoy outdoor activities such as kayaking, fishing, and hiking. The villa’s large windows and outdoor terrace offer breathtaking views of the lake and forest.",
+        "location": "Kühlungsborn, Mecklenburg-Vorpommern, Germany. A modern beach house on the Baltic Sea coast, offering stunning sea views and access to the beach.",
+        "price": "$170 per night",
+        "details": "Kayaking and fishing equipment available on-site."
+      }
+    },
+    {
+      "image": "https://images.oyoroomscdn.com/uploads/hotel_image/100011579/medium/89755_lsr_2017061157117013245.jpg",
+      "name": "Forest Escape Chalet",
+      "details": {
+        "description": "Revel in the tranquility of a secluded chalet hidden deep within the lush Black Forest. This enchanting retreat offers cozy interiors, a roaring fireplace, and private access to serene hiking paths. Ideal for couples and families, it's a haven for peace and reconnecting with nature.",
+        "location": "Schwarzwald, Baden-Württemberg, Germany. Hidden in the heart of the Black Forest, with private hiking trails and a panoramic forest view.",
+        "price": "$220 per night",
+        "nearby_landmarks": ["Triberg Waterfalls", "Cuckoo Clock Museum"]
+      }
+    },
+    {
+      "image": "https://images.oyoroomscdn.com/uploads/hotel_image/100024335/medium/83527_lsr_2019020856236628452.jpg",
+      "name": "Castle View Haven",
+      "details": {
+        "description": "Stay in the shadow of history with this elegant property offering direct views of Germany's most iconic castles. Perfect for history enthusiasts, this property provides luxurious amenities while keeping the old-world charm intact.",
+        "location": "Füssen, Bavaria, Germany. Just minutes away from Neuschwanstein Castle and Hohenschwangau Castle.",
+        "price": "$250 per night",
+        "details": "Private castle tours and breakfast included."
+      }
+    }
+  ]
+}
