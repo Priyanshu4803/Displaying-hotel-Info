@@ -1,6 +1,7 @@
 {
   "hotels": [
     {
+      "id": 34576812,
       "image": "https://images.oyoroomscdn.com/uploads/hotel_image/100033496/large/80405_lsr_2016081238732177796.jpg",
       "name": "The Grand Paradise",
       "details": {
@@ -11,6 +12,7 @@
       }
     },
     {
+      "id": 91874532,
       "image": "https://images.oyoroomscdn.com/uploads/hotel_image/100030271/medium/85694_lsr_2016032541496744442.jpg",
       "name": "Seaside Retreat",
       "details": {
@@ -22,6 +24,7 @@
       }
     },
     {
+      "id": 56378291,
       "image": "https://images.oyoroomscdn.com/uploads/hotel_image/100023796/medium/239706_lsr_2016032445571518600.jpg",
       "name": "Mountain Bliss Resort",
       "details": {
@@ -32,6 +35,7 @@
       }
     },
     {
+      "id": 81496527,
       "image": "https://images.oyoroomscdn.com/uploads/hotel_image/100024349/medium/82522_lsr_2016080956263139895.jpg",
       "name": "City Lights Inn",
       "details": {
@@ -43,6 +47,7 @@
       }
     },
     {
+      "id": 23791458,
       "image": "https://images.oyoroomscdn.com/uploads/hotel_image/100011605/medium/73507_lsr_2017032040614559275.jpg",
       "name": "Lakeview Lodge",
       "details": {
@@ -53,6 +58,7 @@
       }
     },
     {
+      "id": 49637281,
       "image": "https://images.oyoroomscdn.com/uploads/hotel_image/100011579/medium/89755_lsr_2017061157117013245.jpg",
       "name": "Forest Escape Chalet",
       "details": {
@@ -63,6 +69,7 @@
       }
     },
     {
+      "id": 71928364,
       "image": "https://images.oyoroomscdn.com/uploads/hotel_image/100024335/medium/83527_lsr_2019020856236628452.jpg",
       "name": "Castle View Haven",
       "details": {
